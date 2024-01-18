@@ -4,8 +4,8 @@ This repo consists of all the samples you might be looking for in Email Marketin
 **Samples Include:**
 1. Email Deliverability
 2. Email Design.
-       1. Platform Templates
-       2. Custom Templates - HTML, Javascript
+       a. Platform Templates
+       b. Custom Templates - HTML, Javascript
 3. Email Reporting and Analytics.
 4. Email Campaign Setup, Automation, and Integrations.
 5. Email Subject lines
